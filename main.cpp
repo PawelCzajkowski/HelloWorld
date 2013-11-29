@@ -2,10 +2,10 @@
 
 int main(int argc, char **argv)
 {
-	int i=0;
+	double i;
 
-	i=2;
-	printf("i value: %d\n", i);
+	i=43.4;
+	printf("i double value is: %d\n", i);
 	printf("hello world\n");
 	return 0;
 }
